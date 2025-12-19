@@ -38,7 +38,7 @@ export const Hero = () => {
             Full Stack Developer
           </motion.span>
           <motion.h1 variants={fadeInUp} className="text-5xl lg:text-8xl font-extrabold tracking-tight mb-6 leading-tight">
-            Building the <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Future</span> of Web.
+            Building the <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">Future</span> of App.
           </motion.h1>
           <motion.p variants={fadeInUp} className="text-lg text-gray-400 max-w-xl mb-10 leading-relaxed">
             I'm <span className="text-white font-semibold">{PERSONAL_INFO.name}</span>. I bridge the gap between complex engineering and elegant user experiences.
